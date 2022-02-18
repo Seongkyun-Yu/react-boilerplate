@@ -1,0 +1,1 @@
+import commonConfig from "./common";
